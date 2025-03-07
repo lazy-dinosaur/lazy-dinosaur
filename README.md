@@ -17,7 +17,7 @@ So let's study, build, and become better developers!
 
 ## 🛠️ **Tech Stack**
 
-<div style="text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px;">Frontend</div>
+<h2 align="center">Frontend</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; ">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -29,7 +29,7 @@ So let's study, build, and become better developers!
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query" />
 </div>
 
-<div style="text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px; margin-top: 50px;">Backend</div>
+<h2 align="center">Backend</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
@@ -37,7 +37,7 @@ So let's study, build, and become better developers!
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" />
 </div>
 
-<div style="text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px; margin-top: 50px;">Development Environment</div>
+<h2 align="center">Development Environment</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
@@ -45,12 +45,7 @@ So let's study, build, and become better developers!
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
- <table>
-  <tr>
-    <td align="center" style="font-size: 18px; font-weight: bold; padding: 20px 0;">Tools & Ecosystem
-    </td>
-  <tr>
-</table>
+<h2 align="center">Tools & Ecosystem</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
