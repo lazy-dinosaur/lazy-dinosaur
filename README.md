@@ -45,7 +45,12 @@ So let's study, build, and become better developers!
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-<div style="text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px; margin-top: 50px;">Tools & Ecosystem</div>
+ <table>
+  <tr>
+    <td align="center" style="font-size: 18px; font-weight: bold; padding: 20px 0;">Tools & Ecosystem
+    </td>
+  <tr>
+</table>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
