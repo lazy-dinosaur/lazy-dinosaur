@@ -29,7 +29,7 @@ So let's study, build, and become better developers!
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query" />
 </div>
 
-<h2 align="center">Backend</h2>
+<h3 align="center">Backend</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
@@ -37,7 +37,7 @@ So let's study, build, and become better developers!
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" />
 </div>
 
-<h2 align="center">Development Environment</h2>
+<h3 align="center">Development Environment</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
@@ -45,7 +45,7 @@ So let's study, build, and become better developers!
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-<h2 align="center">Tools & Ecosystem</h2>
+<h3 align="center">Tools & Ecosystem</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
