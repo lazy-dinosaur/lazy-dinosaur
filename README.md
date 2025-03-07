@@ -17,7 +17,7 @@ So let's study, build, and become better developers!
 
 ## 🛠️ **Tech Stack**
 
-<h2 align="center">Frontend</h2>
+<h3 align="center">Frontend</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
