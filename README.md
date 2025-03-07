@@ -74,4 +74,4 @@ So let's study, build, and become better developers!
 
 ---
 
-[![GitHub Blog](https://img.shields.io/badge/GitHub%20Blog-181717?style=flat&logo=github&logoColor=white)](https://your-github-username.github.io)
+[![GitHub Blog](https://img.shields.io/badge/GitHub%20Blog-181717?style=flat&logo=github&logoColor=white)](https://lazy-dinosaur.github.io/)
