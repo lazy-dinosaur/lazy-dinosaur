@@ -19,7 +19,7 @@ So let's study, build, and become better developers!
 
 <h2 align="center">Frontend</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; ">
+<div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
