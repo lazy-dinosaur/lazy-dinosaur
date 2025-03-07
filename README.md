@@ -30,7 +30,7 @@ So let's study, build, and become better developers!
 </div>
 
 <h2 align="center">Backend</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Prisma-2D374A?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
@@ -39,7 +39,7 @@ So let's study, build, and become better developers!
 
 <h2 align="center">Development Environment</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Neovim-575c62?style=flat&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
@@ -47,7 +47,7 @@ So let's study, build, and become better developers!
 
 <h2 align="center">Tools & Ecosystem</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Obsidian-000000?style=flat&logo=obsidian&logoColor=white" alt="Obsidian"/>
