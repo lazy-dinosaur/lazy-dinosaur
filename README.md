@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=55C2B1&height=300&section=header&text=Lazy%20Dinosur&fontSize=90&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Hyeonogseok%20Woo&descAlignY=53&descAlign=70&fontColor=ffffff)
+
 # Hi, I just want to be lazy!
 
 The world is full of problems waiting to be solved.  
@@ -15,19 +17,49 @@ So let's study, build, and become better developers!
 
 ## 🛠️ **Tech Stack**
 
-| Frontend                                                                                                        | Backend                                                                                                      | Tools & Ecosystem                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)               |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)        | ![Supabase](https://img.shields.io/badge/Supabase-3D37F9?style=flat&logo=supabase&logoColor=white)           | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)               |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)                       | ![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=flat&logo=prisma&logoColor=white)                 | ![Bun](https://img.shields.io/badge/Bun-2C3E50?style=flat&logo=bun&logoColor=white)               |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)               | ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white) | ![Obsidian](https://img.shields.io/badge/Obsidian-9,000?style=flat&logo=obsidian&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |                                                                                                              | ![QMK](https://img.shields.io/badge/QMK-2C3E50?style=flat&logo=qmk&logoColor=white)               |
+<div style="text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px;">Frontend</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; ">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Recoil-FF6B00?style=flat&logo=recoil&logoColor=white" alt="Recoil" />
+  <img src="https://img.shields.io/badge/Framer Motion-FF5A1F?style=flat&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query" />
+</div>
+
+<div style="text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px; margin-top: 50px;">Backend</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Prisma-2D374A?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" />
+</div>
+
+<div style="text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px; margin-top: 50px;">Development Environment</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Neovim-575c62?style=flat&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+<div style="text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px; margin-top: 50px;">Tools & Ecosystem</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Obsidian-000000?style=flat&logo=obsidian&logoColor=white" alt="Obsidian"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"alt="Markdown"/>
+  <img src="https://img.shields.io/badge/QMK-FF0000?style=flat&logo=qmk&logoColor=white" alt="QMK"/>
+  
+</div>
 
 ## 🌟 **Featured Projects**
 
-- [Markdown to Blog Automation](https://github.com/lazy-dinosaur/lazy-dinosaur.github.io) - Automates blog publishing with Neovim & Next.js
-- [Custom Neovim Setup](https://github.com/lazy-dinosaur/dots-nvim) - Personalized Neovim configuration for efficiency
-- [Corporate Website](https://www.imyourbox.com/) - Client project built with Next.js, Payload CMS for no-code maintenance, styled with Tailwind CSS and Framer Motion animations. Features templated email contact system using Nodemailer.
+- [Markdown to Blog Automation](https://github.com/lazy-dinosaur/lazy-dinosaur.github.io) - Automates blog publishing with Neovim & GitHub Actions
+- [Corporate Website](https://www.imyourbox.com/) - Next.js + Payload CMS + Tailwind CSS + Framer Motion
 
 ## 📊 **GitHub Stats**
 
