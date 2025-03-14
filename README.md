@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=55C2B1&height=300&section=header&text=Lazy%20Dinosur&fontSize=90&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Hyeonogseok%20Woo&descAlignY=53&descAlign=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=55C2B1&height=300&section=header&text=Lazy%20Dinosaur&fontSize=90&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Hyeonogseok%20Woo&descAlignY=53&descAlign=70&fontColor=ffffff)
 
 # Hi, I just want to be lazy!
 
