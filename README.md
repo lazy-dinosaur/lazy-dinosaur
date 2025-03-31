@@ -60,6 +60,7 @@ So let's study, build, and become better developers!
 
 - [Markdown to Blog Automation](https://github.com/lazy-dinosaur/lazy-dinosaur.github.io) - Automates blog publishing with Neovim & GitHub Actions
 - [Corporate Website](https://www.imyourbox.com/) - Next.js + Payload CMS + Tailwind CSS + Framer Motion
+- [CCXT-MCP](https://github.com/lazy-dinosaur/ccxt-mcp) - Cryptocurrency exchange API integration and automated trading system (Node.js + TypeScript + CCXT)
 
 ## 📊 **GitHub Stats**
 
