@@ -58,7 +58,7 @@ So let's study, build, and become better developers!
 
 ## 🌟 **Featured Projects**
 
-- [LazyTrading](https://github.com/lazy-dinosaur/LazyTrading) - 암호화폐 트레이딩 시 안전한 매매 진입을 도와주는 크롬 확장 프로그램 (React + TypeScript + CCXT)
+- [LazyTrading](https://github.com/lazy-dinosaur/LazyTrading) - Chrome extension for safe cryptocurrency trading entries with automatic risk management (React + TypeScript + CCXT)
 - [Markdown to Blog Automation](https://github.com/lazy-dinosaur/lazy-dinosaur.github.io) - Automates blog publishing with Neovim & GitHub Actions
 - [Corporate Website](https://www.imyourbox.com/) - Next.js + Payload CMS + Tailwind CSS + Framer Motion
 - [CCXT-MCP](https://github.com/lazy-dinosaur/ccxt-mcp) - Cryptocurrency exchange API integration and automated trading system (Node.js + TypeScript + CCXT)
