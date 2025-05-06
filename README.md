@@ -71,7 +71,7 @@ So let's study, build, and become better developers!
 
 ## 📬 **Contact**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:woohs0130@naver.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lazydino1314@gmail.com)
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/sdG4BPjh)
 
 ---
