@@ -43,6 +43,7 @@ So let's study, build, and become better developers!
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Neovim-575c62?style=flat&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS" />
 </div>
 
 <h3 align="center">Tools & Ecosystem</h3>
